@@ -17,9 +17,17 @@
                 <p class="text-xl text-custom-gray font-semibold">General Information</p>
                 
                 <div class="flex gap-4">
-                    <img class="p-2 bg-white rounded-md border-custom-gray border-[1px] border-opacity-20" src="../assets/googlemaps.svg" alt="Google Maps Logo">
-                    <img class="p-2 bg-white rounded-md border-custom-gray border-[1px] border-opacity-20" src="../assets/zillow.svg" alt="Zillow Logo">
-                    <img class="p-2 bg-white rounded-md border-custom-gray border-[1px] border-opacity-20" src="../assets/fema.svg" alt="FEMA Logo">
+                    <a target="_blank" href="https://www.google.com/maps/place/952+39th+Ct,+West+Palm+Beach,+FL+33407/@26.7489194,-80.0659183,17z/data=!3m1!4b1!4m6!3m5!1s0x88d8d5c8bd8e8421:0xa4c862729eb89a67!8m2!3d26.7489146!4d-80.0637296!16s%2Fg%2F11c1xsx7z8">
+                        <img class="p-2 bg-white rounded-md border-custom-gray border-[1px] border-opacity-20" src="../assets/googlemaps.svg" alt="Google Maps Logo">
+                    </a>
+                    
+                    <a target="_blank" href="https://www.zillow.com/homes/952-39th-Ct-West-Palm-Beach,-FL-33407_rb/46927766_zpid/">
+                        <img class="p-2 bg-white rounded-md border-custom-gray border-[1px] border-opacity-20" src="../assets/zillow.svg" alt="Zillow Logo">
+                    </a>
+
+                    <a target="_blank" href="https://msc.fema.gov/portal/search">
+                        <img class="p-2 bg-white rounded-md border-custom-gray border-[1px] border-opacity-20" src="../assets/fema.svg" alt="FEMA Logo">
+                    </a>
                 </div>
 
                 <div class="grid gap-2 py-2 border-b-[1px] border-custom-gray border-opacity-20">
